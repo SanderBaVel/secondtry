@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">conexionbd</string>
+    <string name="botonInicial">crear basede datos</string>
+    <string name="nomLibro">ingresa el nombre del libro</string>
+    <string name="etiqueta">ingresa la etiqueta/genero o materia</string>
+    <string name="editorial">nombre de la editorial</string>
+    <string name="descripcion">descricion</string>
+    <string name="botonput">guardar a la bd</string>
+    <string name="menu_nuevo">nuevo registro</string>
+
+</resources>
